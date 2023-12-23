@@ -88,3 +88,5 @@ It calls the collatz_sequence function with the given n, obtains the sequence, a
 Explanation of code execution with an example:
 
 If you call display_collatz_sequence(3), it will print the Collatz sequence starting from the number 3 according to the rules of the Collatz conjecture.
+
+<a href="https://colab.research.google.com/drive/1ZKhIYnJ8NQJgxaXZeq7AOOQY-_uVlVBE?usp=sharing">For your self study - Google Colab</a>
