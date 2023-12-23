@@ -28,6 +28,9 @@ The sequence generated for \( n = 6 \) eventually reaches 1, and it enters the c
 Despite extensive computer simulations verifying this conjecture for incredibly large numbers, a proof confirming that this sequence always reaches 1 for any positive integer \( n \) has not been discovered. The simplicity of the problem combined with its unresolved nature makes the Collatz Conjecture an intriguing and unsolved problem in mathematics.
 
 
+<center> <img src="files/plot.png" /> </center>
+
+
 <hr />
 
 ### create new environment 
