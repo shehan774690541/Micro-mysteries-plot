@@ -26,3 +26,17 @@ For example, let's take the number 6:
 The sequence generated for \( n = 6 \) eventually reaches 1, and it enters the cycle \( 4, 2, 1 \). The Collatz Conjecture posits that this will happen for any positive integer \( n \) you start with.
 
 Despite extensive computer simulations verifying this conjecture for incredibly large numbers, a proof confirming that this sequence always reaches 1 for any positive integer \( n \) has not been discovered. The simplicity of the problem combined with its unresolved nature makes the Collatz Conjecture an intriguing and unsolved problem in mathematics.
+
+
+<hr />
+
+### create new environment 
+<code> python -m venv venv </code>
+
+### load environment
+<code> Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass </code> <br>
+<code> .\venv\Scripts\Activate.ps1 </code>
+
+### install module
+<code>pip install matplotlib</code>
+
